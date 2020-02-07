@@ -19,7 +19,7 @@
       "run_background",
       "access_location",
       "access_user_profile",
-      "access_calendar"      
+      "access_calendar"
     ],
     "buildTargets": [
       "mira"
